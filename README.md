@@ -2,7 +2,7 @@
 - 👀 I’m interested mostly in C#
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Any interesting project
-- 📫 How to reach me jakub.kubisz@seznam.cz
+- 📫 How to reach me <HIDDEN>
 -  My LinkedIn profile: www.linkedin.com/in/jakubkubisz/
 
 <!---
